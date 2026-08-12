@@ -11,17 +11,14 @@ O objetivo deste projeto é criar uma interface simples, intuitiva e atraente em
 ### 🎬 Sobre o Filme
 * **Título Original:** Get Out
 * **Direção:** Jordan Peele
-* **Gênero:** Suspense / Terror Psicológico
+* **Gênero:** Terror Psicológico
 * **Ano de Lançamento:** 2017
-* **Atores Principais:** Daniel Kaluuya, Allison Williams, Bradley Whitford
-
 ---
 
 ## 🚀 Funcionalidades
 
 - [x] **Sinopse:** Resumo sem spoilers sobre a trama.
-- [x] **Ficha Técnica:** Informações sobre direção, elenco e premiações.
-- [x] **Mídia:** Trailer oficial integrado e galeria de imagens.
+- [x] **Mídia:** Capa do Filme.
 - [x] **Navegação Semântica:** Estrutura HTML organizada e acessível.
 
 ---
